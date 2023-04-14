@@ -1,5 +1,5 @@
 {
-  "baseUrl": "rx4allergies.ussl.co.il",
+  "baseUrl": "reshet.ussl.app/rx4allergies",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
